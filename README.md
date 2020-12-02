@@ -17,4 +17,4 @@ Our developed simulator and datasetlink:
 https://studentutsedu-my.sharepoint.com/:f:/g/personal/13026366_student_uts_edu_au/EgYXJSm-4HdEj7ZnO6S1eSUB-1Ip3CyIvknYdPqBQP1-Fw?e=p3bmZQ
 
 If you use the developed simulator and datasets in your papers, please cite our paper named "A Template-based 3D Reconstruction of Colon Structures and Textures from Stereo
-Colonoscopic Images"
+Colonoscopic Images", thank you very much!
