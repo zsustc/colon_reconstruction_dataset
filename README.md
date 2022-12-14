@@ -1,5 +1,5 @@
 # colon_reconstruction_dataset
-this repository contains brief introdcution of simulated data for colon 3D reconstruction and the dataset download link
+This repository contains brief introdcution of simulated data for colon 3D reconstruction and the dataset download link
 
 This dataset contains 15 cases of simulated stereo colonoscopic images with ground truth of camera poses (left camera poses, right camera poses and rotations).
 
@@ -13,8 +13,11 @@ cx = 240.0;
 cy = 320.0;
 baseline = 4.5; %unit in milimeter
 
-Our developed simulator and datasetlink:
+# Our developed simulator and datasetlink:
 https://studentutsedu-my.sharepoint.com/:f:/g/personal/shuai_zhang_student_uts_edu_au/EgYXJSm-4HdEj7ZnO6S1eSUBuS0wDmjRAJpbx30VOgJhjQ?e=3AUDfG
+
+# If this link is invalid, please go to "https://github.com/zsustc/virtual-colonoscopy-simulator/edit/main/README.md"
+# From the new link, you can find the simulator and source code.
 
 If you use the developed simulator and datasets in your papers, please cite our paper named "A Template-based 3D Reconstruction of Colon Structures and Textures from Stereo
 Colonoscopic Images", thank you very much!
