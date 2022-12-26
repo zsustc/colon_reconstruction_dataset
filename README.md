@@ -13,11 +13,12 @@ cx = 240.0;
 cy = 320.0;
 baseline = 4.5; %unit in milimeter
 
-# Our developed simulator and datasetlink:
+# Our developed simulator and code:
+https://drive.google.com/drive/folders/1cypaTsHpi7TRVKI5cYvzk1UfpmdcOEts?usp=sharing
+
+# the link to dataset
 https://studentutsedu-my.sharepoint.com/:f:/g/personal/shuai_zhang_student_uts_edu_au/EgYXJSm-4HdEj7ZnO6S1eSUBuS0wDmjRAJpbx30VOgJhjQ?e=3AUDfG
 
-If this link is invalid, please go to "https://drive.google.com/drive/folders/1cypaTsHpi7TRVKI5cYvzk1UfpmdcOEts?usp=sharing"
-From the new link, you can find the simulator and source code.
 
 If you use the developed simulator and datasets in your papers, please cite our paper named "A Template-based 3D Reconstruction of Colon Structures and Textures from Stereo
 Colonoscopic Images", thank you very much!
